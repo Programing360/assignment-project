@@ -3,6 +3,7 @@ body{
     margin: 100px 400px;
     /* align-items: center; */
     /* text-align: center; */
+    background: linear-gradient();
 }
 .new-year-image{
     position: relative;
@@ -103,4 +104,47 @@ body{
     padding: 64px 140px 64px 860px;
     
     ;
+}
+.banner-information{
+    text-align: center;
+    background-color: #f2d205;
+    
+    /* opacity: 50%; */
+    width: 1320px;
+    height: 500px;
+    margin-top: 122px;
+    position: relative;
+    border-radius: 20px;
+}
+.new-park{
+    text-align: center;
+    padding: 0px 390px 108px 390px;
+    /* color: #070211; */
+    font-size: 32px;
+    position: absolute;
+    top: 10%;
+    color: #070211;
+}
+.data-information{
+    text-align: center;
+    font-family: "Inter", sans-serif;
+    width: 550px;
+}
+.btn-join-now{
+    
+    /* margin-top: 60px; */
+    text-align: center;
+    width: 167px;
+    height: 56px;
+    color: #FFFFFF;
+    background-color: #FF0000;
+    font-size: 20px;
+    font-family: "Inter", sans-serif;
+    border-radius: 8px;
+    border: 0;
+    margin-bottom: 80px;
+}
+.Place{
+    color: #FF0000;
+    
 }
