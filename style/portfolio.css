@@ -1,0 +1,106 @@
+/* banner related style */
+body{
+    margin: 100px 400px;
+    /* align-items: center; */
+    /* text-align: center; */
+}
+.new-year-image{
+    position: relative;
+    /* background-image: url('../resources/Banner\ Image.png'); */
+    background-repeat: no-repeat;
+    background: linear-gradient(top bottom #070211 50%);
+    /* background-image: url('../resources/Banner\ Image.png'); */
+    text-align: center;
+    color: top right, black 100% ;
+    
+}
+.head-style{
+
+
+}
+.happy-title{
+    position: absolute;
+    top: 0px;
+    padding: 100px 300px 193px 400px;
+    width: 632px;
+    height: 227px;
+    font-family: "Merriweather", serif;
+    text-align: center;
+}
+.happy-size{
+    font-size: 32px;
+    color: #01efa0;
+    text-align: center;
+    font-family: "Merriweather", serif;
+    /* width: 260px; */
+    height: 40px;
+}
+.new-year-size{
+    font-size: 72px;
+    color: #bfadff;
+    width: 632px;
+    height: 190px;
+}
+/* main-related-style */
+.all-categoies{
+    text-align: center;
+    /* margin: 114px 0px; */
+}
+.happty-new-photo{
+    width: 802px;
+    text-align: center;
+    margin: 114px 250px;
+}
+.off-style{
+    font-size: 88px;
+    color: #FF0000;
+    margin-bottom: 48px;
+    font-family: "Inter", sans-serif;
+}
+.our-holiday{
+    font-size: 24px;
+    color: #FF0000;
+    font-family: "Inter", sans-serif;
+}
+.happty-new-photo h2{
+    font-size: 48px;
+    font-family: "Inter", sans-serif;
+}
+.vectori{
+    position: relative;
+}
+.midnight-party{
+    position: absolute;
+    top: 10%;
+    padding-left: 200px;
+}
+.Welcome-to{
+    font-size: 64px;
+    color: #FFFFFF;
+    width: 642px;
+    font-family: "Merriweather", serif;
+    
+}
+.dolor-sit{
+    font-size: 18px;
+    color: #FFFFFF;
+    opacity: 80%;
+    width: 697px;
+    font-family: "Inter", sans-serif;
+}
+.join-now{
+    font-family: "Inter", sans-serif;
+    font-size: 20px;
+    color: #FFFFFF;
+    width: 103px;
+    text-decoration: none;
+    padding-left: 40px
+    
+}
+.group-style{
+    position: absolute;
+    top: 0px;
+    padding: 64px 140px 64px 860px;
+    
+    ;
+}
