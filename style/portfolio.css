@@ -225,11 +225,9 @@ body{
 }
 /* what is funtional */
 .holidays-sale-style{
-    /* text-align: center; */
-    margin: 120px 0px;
-    /* padding: 0px 0px 0px 300px; */
-    width: 1320px;
-    height: 463px;
+    padding: 120px 0px 70px 0px;
+    width: 1068px;
+    height: 260px;
 }
 .what-is-funtional{
     font-size: 24px;
@@ -238,7 +236,8 @@ body{
     width: 263px;
     height: 29px;
     color: #070211;
-    text-align: center;
+    /* text-align: center; */
+    padding-left: 522px;
     
     
 }
@@ -247,7 +246,8 @@ body{
     font-family: "Merriweather", serif;
     width: 677px;
     height: 91px;
-    padding-right: 300px;
+    padding-left: 324px;
+    position: relative;
 }
 .dolor-sit-style{
     font-size: 20px;
@@ -256,12 +256,66 @@ body{
     height: 96px;
     font-weight: 32px;
     color: #070211 50%;
-    /* margin-right: auto; */
-    padding-right: 324px;
+    padding-left: 100px;
 }
 .holidays{
     color: #FF0000;
 }
-.rectangle-style{
+.rectangle2-style{
+    /* position: relative; */
+    width: 1320px;
+    height: 229px;
+    background-image: url(../resources/Rectangle\ 2.png);
+    
 
+}
+.sopping-style{
+    display: flex;
+    width: 582.44px;
+    height: 433px;
+    align-items: center;
+    padding: 70px 0px 0px 0px;
+    /* background-image: url('../resources/Group\ 75.png'); */
+    /* background-image: url('../resources/Rectangle\ 2.png'); */
+}
+.group-styles{
+   padding-left: 90px;
+   width: 220.05px;
+   height: 220.05px;
+   margin-left: 100%;
+   
+   
+}
+.rectangle1-style{
+    width: 429px;
+    height: 433px;
+    border-radius: 16px 0px;
+}
+.discount{
+    position: absolute;
+    top: 150%;
+}
+/* the-best-git */
+.the-best-git h3{
+   font-size: 24px;
+   color: #FF0000;
+   font-family: "Inter", sans-serif;
+   width: 200px;
+   height: 29px;
+   font-weight: 400;
+   padding-top: 100px;
+}
+.the-best-git h1{
+   font-size: 48px;
+   font-family: "Merriweather", serif;
+   color: #070211;
+   width: 566px;
+   height: 60px;
+}
+.the-best-git p{
+   font-size: 20px;
+   font-family: "Inter", sans-serif;
+   color: #070211 60%;
+   width: 896px;
+   height: 64px;
 }
