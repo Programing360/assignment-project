@@ -3,7 +3,7 @@ body{
     margin: 100px 400px;
     /* align-items: center; */
     /* text-align: center; */
-    background: linear-gradient();
+    background:repeating-linear-gradient(to left,#bfadff 50%,#FFFFFF);
 }
 .new-year-image{
     position: relative;
@@ -12,12 +12,7 @@ body{
     background: linear-gradient(top bottom #070211 50%);
     /* background-image: url('../resources/Banner\ Image.png'); */
     text-align: center;
-    color: top right, black 100% ;
-    
-}
-.head-style{
-
-
+    color: top right, black 100%;
 }
 .happy-title{
     position: absolute;
@@ -107,7 +102,7 @@ body{
 }
 .banner-information{
     text-align: center;
-    background-color: #f2d205;
+    background: linear-gradient(to right,#00fff2,#540de2);
     
     /* opacity: 50%; */
     width: 1320px;
@@ -128,7 +123,7 @@ body{
 .data-information{
     text-align: center;
     font-family: "Inter", sans-serif;
-    width: 550px;
+    width: 650px;
 }
 .btn-join-now{
     
@@ -147,4 +142,126 @@ body{
 .Place{
     color: #FF0000;
     
+}
+.new-best-offer{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 242px;
+    width: 1320px;
+    background: linear-gradient(to right,#FF0000,#540de2);
+    /* padding: 120px 70px 0px 0px; */
+
+    
+
+}
+.comming-soon{
+    width: 393px;
+    height: 255px;
+    padding: 120px 70px 80px 0px;
+}
+.dolor-style{
+    width: 276px;
+    height: 170;
+    padding: 120px 70px 80px 0px;
+    
+}
+
+.ellipse{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    background-color: #FF0000;
+    width: 463px;
+    height: 400px;
+    border-radius: 50%;
+    /* border: 30% solid #FF0000; */
+    /* min-height: 100vh; */
+    margin: auto 90px;
+   
+    
+}
+.resources-img{
+    width: 350px;
+    height: 350px;
+    
+}
+.new-best-style{
+    font-size: 24px;
+    color: #180ad1;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    width: 220px;
+    height: 29px;
+    
+}
+.new-best-para{
+    font-size: 20px;
+    font-family: "Inter", sans-serif;
+    color: #070211;
+    opacity: 60%;
+}
+.comming-soon-style{
+    font-size: 48px;
+    font-family: "Merriweather", serif;
+    color: #070211;
+    width: 328px;
+    height: 60px;
+}
+.dolor-style h2{
+    color: #FF0000;
+    font-size: 48px;
+    font-family: "Inter", sans-serif;
+    height: 58px;
+    width: 126px;
+}
+.dolor-style p{
+    width: 276px;
+    height: 96px;
+    font-size: 20px;
+    font-family: "Inter", sans-serif;
+    color: #070211;
+    opacity: 60%;
+
+}
+/* what is funtional */
+.holidays-sale-style{
+    /* text-align: center; */
+    margin: 120px 0px;
+    /* padding: 0px 0px 0px 300px; */
+    width: 1320px;
+    height: 463px;
+}
+.what-is-funtional{
+    font-size: 24px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    width: 263px;
+    height: 29px;
+    color: #070211;
+    text-align: center;
+    
+    
+}
+.holidays-sale{
+    font-size: 72px;
+    font-family: "Merriweather", serif;
+    width: 677px;
+    height: 91px;
+    padding-right: 300px;
+}
+.dolor-sit-style{
+    font-size: 20px;
+    font-family: "Inter", sans-serif;
+    width: 1068px;
+    height: 96px;
+    font-weight: 32px;
+    color: #070211 50%;
+    /* margin-right: auto; */
+    padding-right: 324px;
+}
+.holidays{
+    color: #FF0000;
+}
+.rectangle-style{
+
 }
