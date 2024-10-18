@@ -228,6 +228,7 @@ body{
     padding: 120px 0px 70px 0px;
     width: 1068px;
     height: 260px;
+    position: relative;
 }
 .what-is-funtional{
     font-size: 24px;
@@ -247,7 +248,7 @@ body{
     width: 677px;
     height: 91px;
     padding-left: 324px;
-    position: relative;
+    /* position: relative; */
 }
 .dolor-sit-style{
     font-size: 20px;
@@ -291,9 +292,12 @@ body{
     height: 433px;
     border-radius: 16px 0px;
 }
+.banner-informations{
+    /* position: relative; */
+}
 .discount{
     position: absolute;
-    top: 150%;
+    top: 15%;
 }
 /* the-best-git */
 .the-best-git h3{
@@ -315,7 +319,17 @@ body{
 .the-best-git p{
    font-size: 20px;
    font-family: "Inter", sans-serif;
-   color: #070211 60%;
+   color: #070211;
+   opacity: 60%;
    width: 896px;
    height: 64px;
+}
+.product-image{
+    display: flex;
+    padding-top: 40px;
+}
+.product-image img{
+    padding-right: 24px;
+    width: 424px;
+    height: 450px;
 }
