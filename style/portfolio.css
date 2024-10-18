@@ -6,12 +6,12 @@ body{
     background:repeating-linear-gradient(to left,#bfadff 50%,#FFFFFF);
 }
 .new-year-image{
-    position: relative;
+    /* position: relative; */
     /* background-image: url('../resources/Banner\ Image.png'); */
     background-repeat: no-repeat;
     background: linear-gradient(top bottom #070211 50%);
     /* background-image: url('../resources/Banner\ Image.png'); */
-    text-align: center;
+    /* text-align: center; */
     color: top right, black 100%;
 }
 .happy-title{
@@ -22,6 +22,7 @@ body{
     height: 227px;
     font-family: "Merriweather", serif;
     text-align: center;
+    margin-top: 100px;
 }
 .happy-size{
     font-size: 32px;
@@ -397,5 +398,86 @@ body{
     background-color: #FF0000;
     color: #FFFFFF;
     border: 0px;
+    
+}
+/* footer related style */
+.company-info{
+    background-color: #070211;
+    width: 1700px;
+    height: 609px;
+    margin-top: 120px;
+    /* opacity: 50%; */
+    position: relative;
+    
+}
+.big-building{
+    display: flex;
+    position: absolute;
+    color: #FFFFFF;
+    justify-content: space-between;
+    /* align-items: center; */
+    padding: 120px 00px 50px 100px;
+    gap: 600px;
+}
+
+.para-title{
+    
+    scale: 140px;
+    scale: 6846px;
+    width: 375px;
+    height: 80px;
+    font-size: 24px;
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+}
+.website-style{
+    scale: 1108px;
+    scale: 6846px;
+    width: 375px;
+    height: 80px;
+    font-size: 24px;
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+}    
+.line-style{
+    color: #FFFFFF;
+    opacity: 15%;
+    width: 1320px;
+    position: absolute;
+    top: 0;
+    padding-top: 410px ;
+}
+.website-link{
+    text-align: center;
+    padding: 298px 632px 247px 640px;
+    width: 328px;
+    height: 64px;
+
+}
+.unsubscribe-style{
+   color: #FFFFFF;
+   position: absolute;
+   top: 80%;
+   display: flex;
+   justify-content: space-between;
+
+}
+.all-right-style{
+    padding: 0px 800px 120px 140px;
+    scale: 132px;
+    scale: 7179px;
+    font-size: 24px;
+    font-size: "Inter", sans-serif;
+    width: 295px;
+    height: 29px;
+}
+.all-right-styles{
+    scale: 1307px;
+    scale: 7179px;
+    font-size: 24px;
+    font-size: "Inter", sans-serif;
+    width: 145px;
+    height: 29px;
+    font-weight: 500;
     
 }
